@@ -4,6 +4,6 @@ The parent project is [Distributed-Something](https://github.com/DistributedScie
 
 Other things we've Distributed are listed below, with hopefully many more to come! If you use our framework, please do let us know so we can list it below.
 
-* [CellProfiler](https://cellprofiler.org) into [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler)
+* [CellProfiler](https://cellprofiler.org) into [Distributed-CellProfiler](https://github.com/DistributedScience/Distributed-CellProfiler) - our original and still most popular Distribution
 * [Fiji](https://fiji.sc) into [Distributed-Fiji](https://github.com/DistributedScience/Distributed-Fiji)
-* [Deep-Profiler](https://github.com/cytomining/DeepProfiler) into [Distributed-DeepProfiler](https://github.com/BroadInstitute/Distributed-DeepProfiler)
+* [DeepProfiler](https://github.com/cytomining/DeepProfiler) into [Distributed-DeepProfiler](https://github.com/DistributedScience/Distributed-DeepProfiler)
